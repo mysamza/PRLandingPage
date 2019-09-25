@@ -1,9 +1,3 @@
-THEME: Inspire - Free Bootstrap Theme
-AUTHOR: uiCookies.com
-AUTHOR URI: https://uiCookies.com/
-
-
-CREDITS:
 
 Bootstrap
 http://getbootstrap.com/
